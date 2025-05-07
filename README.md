@@ -1,4 +1,7 @@
-# ![Title-Picture](https://i.ibb.co/CVrvbBk/Clincic-Service-Title.png) 🏥
+# Clinic Service 🏥
+
+> ⚠️ **Disclaimer**: This is a **fork** of [Clinic Service](https://github.com/Dentanoid/Clinic-Service), originally created and maintained by the [Dentanoid Organization](https://github.com/Dentanoid)
+
 Welcome to the Clinic service! This service handles requests for:
 
 * Registering clinics
@@ -289,11 +292,6 @@ This service will not get updated in the future, due to project being considered
 
 
 ## Authors and acknowledgment
-This service is a part of DIT356 distributed systems course, and is created by Group 20. [Check here for more information about the entire project.](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems/-/wikis/home)
-
-***WIP DUE TO SERVICE STILL BEING DEVELOPED***
-
-In this service the following people have contributed:
 
 - Mohamad Khalil
 - Lucas Holter
@@ -301,8 +299,6 @@ In this service the following people have contributed:
 - James Klouda 
 - Jonatan Boman 
 - Joel Mattson
-
-
 
 ## Project status
 The service may recieve updates until 9th January 2024, and none after.
